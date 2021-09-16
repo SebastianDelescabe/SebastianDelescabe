@@ -1,7 +1,7 @@
 
 <img src="https://i.ibb.co/9b851X5/OPCION-4.jpg" />
 
-<sub> Hola !👋 soy Sebastian Delescabe programador web Full Stack actualmente estudiando en SoyHenry</sub>
+<h3>Hola !👋 soy Sebastian Delescabe programador web Full Stack actualmente estudiando en SoyHenry</h3>
 
 - Buenos Aires, Argentina
 - Actualmente trabajando en **Henropoly** 
