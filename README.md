@@ -4,7 +4,7 @@
 <h3>Hola !👋 soy Sebastian Delescabe programador web Full Stack actualmente estudiando en SoyHenry</h3>
 
 - Buenos Aires, Argentina
-- Actualmente trabajando en **Henropoly** 
+- Desarrollando **Henropoly** 
 - Mis proyectos disponibles en [portfolio](portfolio)
 
 
