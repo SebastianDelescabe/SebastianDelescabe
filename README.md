@@ -2,7 +2,7 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp;Actualmente estudiando programacion en Soy Henry 
+- 🎓 &nbsp;Estudiando programacion en Soy Henry 
 - 🔭 Trabajando en: `Henropoly`.
 <!--END_SECTION:activity-->
 
