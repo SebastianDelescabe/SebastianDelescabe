@@ -1,4 +1,4 @@
-<h1>👋Hola!</h1>
+<h2>👋Hola!</h2>
 
 <img align="center" src="https://i.ibb.co/9b851X5/OPCION-4.jpg" />
 
