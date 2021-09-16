@@ -80,13 +80,11 @@
 
 </details>
 
-<details>
-    <summary>&#9889 <b>Estadísticas en GitHub</b></summary><br/>
+### :zap: Estadisticas Github
 
-![Mis estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=SebastianDelescabe&show_icons=true&theme=tokyonight)
-[![Mis lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianDelescabe&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Sumanth-Talluri&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Sumanth's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Sumanth-Talluri&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
 
-
-</details>
 
 <!-- markdownlint-enable MD033 -->
