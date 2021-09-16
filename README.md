@@ -2,8 +2,8 @@
 
 <h3> 💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Actualmente estudiando programacion en Soy Henry 
-- 🔭 trabajando en: `Henropoly`.
+- 🎓 &nbsp;Actualmente estudiando programacion en Soy Henry 
+- 🔭 Trabajando en: `Henropoly`.
 <!--END_SECTION:activity-->
 👨‍💻 Todos mis proyectos en (Portfolio)
 
@@ -27,5 +27,12 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-<!-- markdownlint-enable MD033 -->
+<br> <br>
+<div align="center">Contactame 🚀</div>  
+<a href="https://www.linkedin.com/in/sebastian-delescabe/">
+  <img align="left" alt="Shreya's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/SebastianDelescabe">
+  <img align="left" alt="Shreya's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<br><br>
