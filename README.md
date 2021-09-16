@@ -1,5 +1,5 @@
 
-<img src="https://i.ibb.co/9b851X5/OPCION-4.jpg"/>
+<img src="https://i.ibb.co/9b851X5/OPCION-4.jpg" height=100% width=100%/>
 
 
 - Soy de Buenos Aires, Argentina
