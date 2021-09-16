@@ -1,4 +1,4 @@
-<h1 align="center"> Sebastian Delescabe - Full-Stack web Developer</h1>
+<h1 align="center"> Sebastian Delescabe - Full-Stack Developer</h1>
 
 
 - Soy de Buenos Aires, Argentina
