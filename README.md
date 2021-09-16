@@ -32,7 +32,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   
   <br>	
-  <hr/>
 <h3 align="left">Contactame</h3>
 <br>	
 <a target="_blank" href="https://www.linkedin.com/in/sebastian-delescabe/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
