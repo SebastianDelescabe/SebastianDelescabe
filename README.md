@@ -1,7 +1,7 @@
 <h1 align="center"> 👋  Hola soy Sebastian Delescabe - Full-Stack web Developer</h1>
 
+
 - Soy de Buenos Aires, Argentina
-- Me encantan las posibilidades que otorga el mundo de la programacion ! 
 - Actualmente trabajando en **Henropoly**
 - Mis proyectos disponibles en [portfolio](portfolio)
 
