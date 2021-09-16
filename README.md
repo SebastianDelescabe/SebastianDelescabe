@@ -1,11 +1,12 @@
 <h1 align="center">Sebastian Delescabe - Full-Stack Developer</h1>
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="100%"/></a>
 
 - Actualmente trabajando en **Henropoly**
 - Mis proyectos disponible en [portfolio](portfolio)
   <br>	
+  
+  
 <h3> 🛠 &nbsp;Lenguajes y herramientas</h3>
-
 - &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
