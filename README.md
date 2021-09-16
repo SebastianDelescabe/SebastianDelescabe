@@ -22,8 +22,8 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 - &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiandelescabe&show_icons=true&locale=en&layout=compact" alt="sebastiandelescabe" /></p>
+  
+  <br>	
 
 <h3 align="left">Contactame</h3>
 <br>	
