@@ -1,7 +1,6 @@
 <h1 align="center">Hola soy Sebastian Delescabe - Full-Stack Developer</h1>
 
--Actualmente trabajando en **Henropoly**
-
+- Actualmente trabajando en **Henropoly**
 - Mis proyectos disponible en [portfolio](portfolio)
 
 
@@ -27,7 +26,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiandelescabe&show_icons=true&locale=en&layout=compact" alt="sebastiandelescabe" /></p>
 
 <h3 align="left">Contactame</h3>
--Escribime **sebastiandelescabe@gmail.com**
+- Escribime **sebastiandelescabe@gmail.com**
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastian-delescabe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-delescabe/" height="30" width="40" /></a>
 </p>
