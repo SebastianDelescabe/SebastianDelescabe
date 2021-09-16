@@ -1,6 +1,8 @@
 
 <img align="center" src="https://i.ibb.co/9b851X5/OPCION-4.jpg" />
 
+<hr/>
+
 - Actualmente estudiando en SoyHenry y desarrollando **Henropoly**
 - Soy de Buenos Aires, Argentina
 - Mis proyectos disponibles en [portfolio](portfolio)
