@@ -1,6 +1,7 @@
 
 <img align="center" src="https://i.ibb.co/9b851X5/OPCION-4.jpg" />
 
+<br/>
 <hr/>
 
 - Actualmente estudiando en SoyHenry y desarrollando **Henropoly**
