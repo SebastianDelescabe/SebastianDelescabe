@@ -7,15 +7,18 @@
  <br/>
   
 
-
+- 🎓 &nbsp; Actualmente estudiando programacion en Soy Henry 
 <!--START_SECTION:activity-->
-- 🔭 Actualmente trabajando en: `Henropoly`.
+- 🔭 trabajando en: `Henropoly`.
 <!--END_SECTION:activity-->
   
+👨‍💻 Todos mis proyectos en (Portfolio)
 
-- 🎓 &nbsp; Estudiando programacion en Soy Henry 
+🌱 I’m currently learning React Native
+
+
+
   
-
 
 <h3> 🛠 &nbsp;Lenguajes y herramientas</h3>
 
