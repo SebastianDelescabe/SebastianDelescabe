@@ -1,11 +1,10 @@
+# <div align="center">Sebastian Delescabe, Full-Stack developer 👨‍💻 🚀</div>  
+  <br/>
 
 <div align="center">
 <img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 75%; height:60% " />
 </div>  
  <br/>
-
-# <div align="center">Sebastian Delescabe, Full-Stack developer 👨‍💻 🚀</div>  
-  <br/>
   
 
 
