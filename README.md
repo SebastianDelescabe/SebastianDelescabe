@@ -1,15 +1,10 @@
-<h1 align="center">Hola soy Sebastian Delescabe</h1>
+<h1 align="center">Hola soy Sebastian Delescabe - Full-Stack Developer</h1>
 
 - 🔭 Actualmente trabajando en **Henropoly**
 
 - 👨‍💻 Mis proyectos disponible en [portfolio](portfolio)
 
 - 📫 Escribime **sebastiandelescabe@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastian-delescabe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-delescabe/" height="30" width="40" /></a>
-</p>
 
 <h3> 🛠 &nbsp;Lenguajes y herramientas</h3>
 
@@ -31,3 +26,8 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastiandelescabe&show_icons=true&locale=en&layout=compact" alt="sebastiandelescabe" /></p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sebastian-delescabe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sebastian-delescabe/" height="30" width="40" /></a>
+</p>
