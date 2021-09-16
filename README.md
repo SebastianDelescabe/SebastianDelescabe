@@ -1,5 +1,6 @@
 <h1 align="center">Sebastian Delescabe - Full-Stack Developer</h1>
-<br>	
+
+
 - Actualmente trabajando en **Henropoly**
 - Mis proyectos disponible en [portfolio](portfolio)
   <br>	
