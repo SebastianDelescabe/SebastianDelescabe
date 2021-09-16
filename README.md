@@ -1,24 +1,12 @@
-# <div align="center">Sebastian Delescabe, Full-Stack developer 👨‍💻 🚀</div>  
-  <br/>
+### <div align="center">Sebastian Delescabe, Full-Stack developer 👨‍💻 🚀</div>  
 
-<div align="center">
-<img src="https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif" align="center" style="width: 75%; height:60% " />
-</div>  
- <br/>
-  
+<h3> 💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Actualmente estudiando programacion en Soy Henry 
-<!--START_SECTION:activity-->
 - 🔭 trabajando en: `Henropoly`.
 <!--END_SECTION:activity-->
-  
 👨‍💻 Todos mis proyectos en (Portfolio)
 
-🌱 I’m currently learning React Native
-
-
-
-  
 
 <h3> 🛠 &nbsp;Lenguajes y herramientas</h3>
 
@@ -40,9 +28,4 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<h3> 🤝🏻 &nbsp;Contactame </h3>
-
-<p align="center">
-<a href="https://github.com/SebastianDelescabe"><img src="https://github.com/SebastianDelescabe"/></a>
-<a href="https://www.linkedin.com/in/sebastian-delescabe/"><img src="https://www.linkedin.com/in/sebastian-delescabe/"/></a>
 <!-- markdownlint-enable MD033 -->
