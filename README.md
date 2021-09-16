@@ -1,4 +1,5 @@
 ### <div align="center">Sebastian Delescabe, Full-Stack developer 👨‍💻 🚀</div>  
+<h3> 💻 &nbsp;Sobre mi </h3>
 - Estudiando programacion en Soy Henry 
 - Trabajando en: `Henropoly`.
 <!--END_SECTION:activity-->
