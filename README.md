@@ -46,7 +46,7 @@
   <img align="left" src="https://github.com/SebastianDelescabe" alt="Sumanth's Github Stats" width="60%">
 
 
-h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <a align="center" href="https://github.com/SebastianDelescabe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
