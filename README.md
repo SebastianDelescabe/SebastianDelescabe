@@ -7,7 +7,7 @@
 
 - Actualmente estudiando en SoyHenry y desarrollando **Henropoly**
 - Soy de Buenos Aires, Argentina
-- Mis proyectos disponibles en [portfolio](portfolio)
+- Mis proyectos disponibles en [portfolio](https://sebastiandelescabe-portfolio.netlify.app/)
 
 
   <br>	
