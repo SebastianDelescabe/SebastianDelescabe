@@ -5,9 +5,9 @@
 <br/>
 <hr/>
 
-- Actualmente estudiando en SoyHenry y desarrollando **Henropoly**
+- Actualmente haciendo trabajos freelance buscando mi primera oportunidad en una empresa**
 - Soy de Buenos Aires, Argentina
-- Mis proyectos disponibles en [portfolio](https://sebastiandelescabe-portfolio.netlify.app/)
+- Mis proyectos disponibles en [portfolio](https://portfolio-sebastiandelescabe.netlify.app/)
 
 
   <br>	
