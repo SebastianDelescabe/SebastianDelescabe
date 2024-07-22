@@ -5,9 +5,9 @@
 <br/>
 <hr/>
 
-- Actualmente haciendo trabajos freelance buscando mi primera oportunidad en una empresa**
+- Trabajo como frontend hace tres años**
 - Soy de Buenos Aires, Argentina
-- Mis proyectos disponibles en [portfolio](https://portfolio-sebastiandelescabe.netlify.app/)
+- Mis proyectos disponibles en [portfolio](https://sebastiandelescabe.netlify.app/)
 
 
   <br>	
